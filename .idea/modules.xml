@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/criminalintent/criminalintent.iml" filepath="$PROJECT_DIR$/criminalintent/criminalintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw03-adding-another-dialog-numberhater.iml" filepath="$PROJECT_DIR$/hw03-adding-another-dialog-numberhater.iml" />
+    </modules>
+  </component>
+</project>
